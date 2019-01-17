@@ -23,7 +23,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #      storing the float in a variable called 'x'.
 #      Write your line here:
 #
-#      agoodthingruinedbyafullstop = float(input('Not 9.6))
+#      agoodthingruinedbyafullstop = float(input('Not 9.6'))
 #
 #
 #   3. Write a line of code that would input an STRING from the console,
@@ -124,4 +124,10 @@ def input_a_float():
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
-main()
+# main()
+
+x=[]
+x[0]=100
+x[1]=3
+x[2]=75
+
